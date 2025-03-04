@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy-DI", "Strategy-DI\Strategy-DI.csproj", "{5DC8BB76-076A-46D6-9FC4-B7D42E24FB31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C9D3DC90-B86E-412E-ACD0-CA5217958887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTest", "IntegrationTest\IntegrationTest.csproj", "{329B5FB3-5FC0-447B-AE08-CC480B54A574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC8BB76-076A-46D6-9FC4-B7D42E24FB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC8BB76-076A-46D6-9FC4-B7D42E24FB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC8BB76-076A-46D6-9FC4-B7D42E24FB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC8BB76-076A-46D6-9FC4-B7D42E24FB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329B5FB3-5FC0-447B-AE08-CC480B54A574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329B5FB3-5FC0-447B-AE08-CC480B54A574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329B5FB3-5FC0-447B-AE08-CC480B54A574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329B5FB3-5FC0-447B-AE08-CC480B54A574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{329B5FB3-5FC0-447B-AE08-CC480B54A574} = {C9D3DC90-B86E-412E-ACD0-CA5217958887}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D680DD-666D-4F73-8EBA-49C35E0FB740}
+	EndGlobalSection
+EndGlobal

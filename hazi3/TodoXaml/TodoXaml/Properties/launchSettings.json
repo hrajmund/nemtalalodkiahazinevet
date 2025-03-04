@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TodoXaml (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TodoXaml (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

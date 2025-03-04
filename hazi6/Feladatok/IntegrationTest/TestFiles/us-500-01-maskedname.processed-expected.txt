@@ -1,0 +1,3 @@
+***; ***; LA; New Orleans; 39; 96; Heart-related
+***; ***; MI; Brighton; 16; 64; Tuberculosis
+***; ***; NJ; Bridgeport; 64; 101; Tuberculosis

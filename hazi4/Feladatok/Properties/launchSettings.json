@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MultiThreadedApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MultiThreadedApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
